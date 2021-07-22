@@ -1,0 +1,23 @@
+.sidenav {
+    height: 100vh;
+    width: 10vw;
+    background-color: #242526;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.sidenav-dropdown {
+    color: #10BE8E;
+    font-family: inherit;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sidenav-dropdown span {
+    cursor: pointer;
+}
